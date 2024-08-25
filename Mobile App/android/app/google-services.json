@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "42172154052",
+    "project_id": "medipill-87485",
+    "storage_bucket": "medipill-87485.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42172154052:android:a602af79f1c4bed6cb4991",
+        "android_client_info": {
+          "package_name": "com.example.medipill"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdY_k_NIO8yHDdp6jSkx4leVvBCT7h3wU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
