@@ -181,4 +181,4 @@ For any inquiries or further information, feel free to reach out:
 
 - **Name**: Nipuna Madula
 - **Email**: [nipunamadula2001@gmail.com](mailto:nipunamadula2001@gmail.com)
-- **LinkedIn**: [Nipuna Madula on LinkedIn](https://www.linkedin.com/in/nipuna-madula/)
+- **LinkedIn**: [Nipuna Madula on LinkedIn](https://www.linkedin.com/in/nipunamadula/)
